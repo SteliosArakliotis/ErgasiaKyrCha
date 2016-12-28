@@ -18,7 +18,7 @@ Technical priority (5/5): Η <ΛΑ-1> είναι από τις βασικές λ
 
 Stability (4/5): Αποτελεί πολύ σημαντική λειτουργία της εφαρμογής κι έτσι είναι χρήσιμο ο τρόπος 
 με τον οποίο ο χρήστης δημοσιεύει λίστες να είναι συγκεκριμένος.
-
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/Search.feature
 
 
 <ΛΑ-2>
