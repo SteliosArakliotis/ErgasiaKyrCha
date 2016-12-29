@@ -28,6 +28,7 @@ https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%20
 Storyboard
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/documentation/add_list_stb.pdf
 
+
 <ΛΑ-2>
 
 Ο χρήστης πρέπει να μπορεί να δει τις λίστες των άλλων χρηστών.
@@ -47,6 +48,12 @@ Technical priority (5/5): Η λειτουργία αυτή πρέπει να π�
 
 Stability (3/5): Είναι ένα χαρακτηριστικό το οποίο εξαρτάται κι από άλλες λειτουργίες άρα η 
 σταθερότητα δεν είναι πολύ μεγάλη.
+
+User Story
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/users_list.feature
+
+Mockup
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2011.PNG
 
 
 
@@ -68,6 +75,8 @@ Technical priority (5/5): Η λειτουργία διασφαλίζει την 
 
 Stability (4/5): Η διαδικασία δημιουργίας λογαριασμού πρέπει να είναι πάντα συγκεκρινμένη πράγμα 
 που κάνει τη συγκεκριμένη λειτουργική απαίτηση πολύ σταθερή.
+
+User Story
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/Account.feature
 
 
