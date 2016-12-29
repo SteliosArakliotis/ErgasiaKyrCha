@@ -100,6 +100,11 @@ Technical priority (3/5): Είναι χρήσιμο να υπάρχει η συ�
 Stability (2/5): Η διαδικασία αυτή δεν χαρακτηρίζεται από μεγάλη σταθερότητα καθώς οι χρήστες 
 που θα λαμβάνουν μέρος συνεχώς θα διαφοροποιούνται.
 
+User Story
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/users_list.feature
+Mockup
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2015.PNG
+
 
 <ΛΑ-5>
 
@@ -123,6 +128,10 @@ Technical priority (3/5): Παρόλο που η παραπάνω επιλογή
 Stability (2/5): Η διαδικασία αυτή δεν χαρακτηρίζεται από μεγάλη σταθερότητα αφού ο τρόπος βαθμολόγησης
 μπορεί να διαφοροποιηθεί.
 
+User Story
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/users_list.feature
+Mockup
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2013.png
 
 
 <ΛΑ-6>
@@ -147,8 +156,16 @@ Technical priority (2/5): Η εφαρμογή θα ήταν πλήρως λει�
 Stability (3/5): Ο τρόπος με τον οποίο ο χρήστης θα ανεβάζει φωτογραφία προφίλ θα είναι 
 συγκεκριμένος ωστόσο αφήνεται ανοιχτό το ενδεχόμενο να προστεθούν και άλλα χαρακτηριστικά 
 σε αυτήν την λειτουργία.
+
+User Story
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/Account.feature
 
+Mockups
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%206.PNG
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%207.PNG
+
+Storyboard
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/documentation/change_pic_stb.pdf
 
 
 <ΛΑ-7>
