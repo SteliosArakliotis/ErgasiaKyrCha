@@ -19,7 +19,14 @@ Technical priority (5/5): Η <ΛΑ-1> είναι από τις βασικές λ
 Stability (4/5): Αποτελεί πολύ σημαντική λειτουργία της εφαρμογής κι έτσι είναι χρήσιμο ο τρόπος 
 με τον οποίο ο χρήστης δημοσιεύει λίστες να είναι συγκεκριμένος.
 
+User Story
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/List.feature
 
+Mockup
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2010.png
+
+Storyboard
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/documentation/add_list_stb.pdf
 
 <ΛΑ-2>
 
