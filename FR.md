@@ -511,7 +511,10 @@ Technical Priority: (3/5) Θεωρούμε πως είναι σημαντικό 
 Stability: (4/5) Δύσκολα θα αλλάξει αυτό το κομμάτι της εφαρμογής καθώς στηρίζεται στην επικοινωία των χρηστών και
 δημιουργεί κοινωνικούς δεσμούς μεταξύ τους.
 
-
+User Story
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/Notification.feature
+Mockup
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2012.png
 
 
 <ΛΑ-25>
@@ -572,6 +575,10 @@ Technical Priority: (2/5) Οι χρήστες πρέπει να έχουν το 
 
 Stability: (4/5) Ακριβώς το ίδιο με την λειτουργική απαίτηση 25.
 
+User Story
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/users_list.feature
+Mockup
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2011.PNG
 
 
 <ΛΑ-28>
@@ -602,6 +609,12 @@ Technical Priority: (1/5) Η εφαρμογή μπορεί να είναι λε�
 
 Stability: (1/5) Η συγκεκριμένη λειτουργία μπορεί να αφαιρεθεί εαν κριθεί οτι δεν χρησιμοπειειται απο τους χρήστες.
 
+User Story
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/users_list.feature
+
+Mockup
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2011.PNG
+
 
 
 <ΛΑ-30>
@@ -617,6 +630,8 @@ Technical Priority: (1/5) Η εφαρμογή μπορεί να είναι λε�
 
 Stability: (2/5) Αυτή η τακτική είναι πολύ χρήσιμη για να "δένει" τους χρήστες με την εφαρμογή αλλά κρίνετα ότι μπορεί να αντικατασταθεί
 με διαφορετικό μηχανισμό στο μέλλον ή και να απαλειφθεί.
+
+
 
 
 
