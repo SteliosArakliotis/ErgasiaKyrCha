@@ -104,6 +104,8 @@ User Story
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/users_list.feature
 Mockup
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2015.PNG
+Activity diagram
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/Activity%20diagram-%20Follow.pdf
 
 
 <ΛΑ-5>
@@ -132,6 +134,8 @@ User Story
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/users_list.feature
 Mockup
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/mockups/mockup%2013.png
+Storyboard
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/documentation/rate_stb.pdf
 
 
 <ΛΑ-6>
@@ -407,6 +411,8 @@ Technical priority (3/5): Η εφαρμογή κατά την υλοποίηση
 Stability (2/5) : Η εφαρμογή αποκτά διαρκώς νέους χρήστες οι οποίοι καταχωρούν νέες λίστες και κατά συνέπεια ο αριθμός των προφίλ συνεχώς αυξάνεται. Έτσι έιναι αναπόφευκτο για την εφαρμογή να μην είναι ασταθής.
 User Story
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/Account.feature
+Activity diagram
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/Activity%20diagram-%20Login.pdf
  
  
 <ΛΑ-19>
@@ -423,6 +429,9 @@ Stability (3/5) : Η διαδικασία της καταγραφής των λ�
 
 User Story
 https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/requirements/Board.feature
+
+Activity diagram
+https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/Activity%20diagram-%20History.pdf
 
 
 <ΛΑ-20>
