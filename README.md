@@ -4,9 +4,9 @@
 
 AUTHORS
 
-Author 1:
+Author 1: Giannis Dimitriou
 
-Author 2:
+Author 2: Evripidis Gkarlas
 
 Author 3: Stelios Arakliotis 
 
