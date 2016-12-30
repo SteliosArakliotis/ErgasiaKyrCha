@@ -22,8 +22,10 @@ ABSTRACT
 
 Table of Contents
 
-1.[Introduction](https://github.com/SteliosArakliotis/ErgasiaKyrCha/tree/master/documentation)
+1.[Introduction](https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/documentation/intro.md)
+
 2.
+
 3.
 
 
