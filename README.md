@@ -20,7 +20,7 @@ ABSTRACT
 Πρόκειται για μια προσβάσιμη εφαρμογή SaaS όπου θελουμε να ξεχωρίζει για το user friendly χαρακτήρα της.
 
 
-Table of Contents
+TABLE OF CONTENTS
 
 1.[Introduction](https://github.com/SteliosArakliotis/ErgasiaKyrCha/blob/master/documentation/intro.md)
 
